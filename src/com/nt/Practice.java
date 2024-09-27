@@ -8,6 +8,12 @@ public class Practice {
 		int b=10;
 		
 		int c=a*b;
+
+		c=a-b;
+
+		c=a+b;
+		
+		c=c+a-b;
 		
 		System.out.println(c);
 	}
