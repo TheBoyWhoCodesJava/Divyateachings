@@ -8,7 +8,10 @@ public class Practice {
 		int b=10;
 		
 		int c=a*b;
+<<<<<<< Updated upstream
 		c=a-b;
+=======
+>>>>>>> Stashed changes
 		c=a+b;
 		
 		System.out.println(c);
